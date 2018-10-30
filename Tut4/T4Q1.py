@@ -1,4 +1,4 @@
-#Queation 1(a)
+#Question 1(a)
 x=[1,2,3]
 y=x
 x[1]=555
