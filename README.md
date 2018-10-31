@@ -1,5 +1,4 @@
-# KIX3004_Python
-
+# KIX3004_Python  [![Generic badge](https://img.shields.io/badge/Updated%20to-Tutorial%206-blue.svg)](https://shields.io/)
 This is a respitory for KIX3004 Python Programming for Session 2018/2019.
 
 # Tutorial Questions and Answer
@@ -26,3 +25,5 @@ Questions and answers can be found below.
   - [Question 4](https://github.com/khvmaths/KIX3004_Python/blob/master/Tut5/T5Q4.py)
 * [Tutorial 6](https://github.com/khvmaths/KIX3004_Python/blob/master/Questions/KIX3004_Tutorial06.pdf)
   - [Question 1](https://github.com/khvmaths/KIX3004_Python/blob/master/Tut1/T6Q1.py)
+
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
