@@ -9,6 +9,3 @@ def g(m,n):
 n=5
 f=reduce(g,range(n+1) if n>0 else range (n+2))
 print(f)
-
-def x(m,n):
-    return 1 if m==0 else m*x(m-1)
