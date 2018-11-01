@@ -1,4 +1,4 @@
-# KIX3004_Python  [![Generic badge](https://img.shields.io/badge/Updated%20to-Tutorial%206-blue.svg)](https://shields.io/)
+# KIX3004_Python  [![Generic badge](https://img.shields.io/badge/Updated%20to-Test%201-blue.svg)](https://shields.io/)
 This is a respitory for KIX3004 Python Programming for Session 2018/2019.
 
 # Tutorial Questions and Answer
