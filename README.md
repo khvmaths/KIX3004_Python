@@ -26,4 +26,11 @@ Questions and answers can be found below.
 * [Tutorial 6](https://github.com/khvmaths/KIX3004_Python/blob/master/Questions/KIX3004_Tutorial06.pdf)
   - [Question 1](https://github.com/khvmaths/KIX3004_Python/blob/master/Tut1/T6Q1.py)
 
+# Test 1 Questions and Answer
+* [Questions](https://github.com/khvmaths/KIX3004_Python/blob/master/Questions/KIX3004_Test1.pdf)
+  - [Answer Q1](https://github.com/khvmaths/KIX3004_Python/blob/master/Test1/A1.py)
+  - [Answer Q2](https://github.com/khvmaths/KIX3004_Python/blob/master/Test1/A2.py)
+  - [Answer Q3](https://github.com/khvmaths/KIX3004_Python/blob/master/Test1/A3.py)
+  - [Answer Q4](https://github.com/khvmaths/KIX3004_Python/blob/master/Test1/A4.py)
+
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
