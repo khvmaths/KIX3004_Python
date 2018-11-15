@@ -17,7 +17,6 @@ class BankAccount:
             print('Balance is insufficient')
         else:
             self.bal-=i
-            print('Balance is sufficient')
     def deposit(self,i):
         self.bal+=i
     
