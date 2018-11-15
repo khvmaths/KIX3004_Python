@@ -24,9 +24,9 @@ Questions and answers can be found below.
   - [Question 3](https://github.com/khvmaths/KIX3004_Python/blob/master/Tut5/T5Q3.py)
   - [Question 4](https://github.com/khvmaths/KIX3004_Python/blob/master/Tut5/T5Q4.py)
 * [Tutorial 6](https://github.com/khvmaths/KIX3004_Python/blob/master/Questions/KIX3004_Tutorial06.pdf)
-  - [Question 1](https://github.com/khvmaths/KIX3004_Python/blob/master/Tut1/T6Q1.py)
+  - [Question 1](https://github.com/khvmaths/KIX3004_Python/blob/master/Tut6/T6Q1.py)
 * [Tutorial 7](https://github.com/khvmaths/KIX3004_Python/blob/master/Questions/KIX3004_Tutorial07.pdf)
-  - [Question 1](https://github.com/khvmaths/KIX3004_Python/blob/master/Tut1/T7Q1.py)
+  - [Question 1](https://github.com/khvmaths/KIX3004_Python/blob/master/Tut7/T7Q1.py)
 
 # Test 1 Questions and Answer
 * [Questions](https://github.com/khvmaths/KIX3004_Python/blob/master/Questions/KIX3004-Test1.pdf)
