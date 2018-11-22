@@ -36,5 +36,6 @@ Questions and answers can be found below.
 # Test 2 Questions and Answer
 * [Questions](https://github.com/khvmaths/KIX3004_Python/blob/master/Questions/KIX3004-Test2.pdf)
   - [Answer Q1](https://github.com/khvmaths/KIX3004_Python/blob/master/Test2/KIE160111Q1.py) 
+  - [Answer Q2](https://github.com/khvmaths/KIX3004_Python/blob/master/Test2/KIE160111Q2.py) 
   
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
