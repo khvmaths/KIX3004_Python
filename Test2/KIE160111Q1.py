@@ -19,7 +19,7 @@ sum_mag=reduce(lambda x,y:x+y,map(lambda a:(a.real**2+a.imag**2)**0.5 if type(a)
 print(sum_mag)
 
 #Question 5
-maxi=reduce(lambda x,y: x if x>y else y, map(lambda a:(a.real**2+a.imag**2)**0.5 if type(a)==complex else a,A))
+maxi=reduce(lambda x,y: x if x>y else y, map(lambda a:(a.real**2+a.imag**2)**0.5,A))
 print(maxi)
-mini=reduce(lambda x,y: y if x>y else y, map(lambda a:(a.real**2+a.imag**2)**0.5 if type(a)==complex else a,A))
+mini=reduce(lambda x,y: y if x>y else x, map(lambda a:(a.real**2+a.imag**2)**0.5,A))
 print(mini)
