@@ -1,4 +1,4 @@
-# KIX3004_Python  [![Generic badge](https://img.shields.io/badge/Updated%20to-Test%202-blue.svg)](https://shields.io/)
+# KIX3004_Python  [![Generic badge](https://img.shields.io/badge/Updated%20to-Tutorial%209-blue.svg)](https://shields.io/)
 This is a respitory for KIX3004 Python Programming for Session 2018/2019.
 
 # Tutorial Questions and Answer
@@ -27,6 +27,12 @@ Questions and answers can be found below.
   - [Question 1](https://github.com/khvmaths/KIX3004_Python/blob/master/Tut6/T6Q1.py)
 * [Tutorial 7](https://github.com/khvmaths/KIX3004_Python/blob/master/Questions/KIX3004_Tutorial07.pdf)
   - [Question 1](https://github.com/khvmaths/KIX3004_Python/blob/master/Tut7/T7Q1.py)
+* [Tutorial 8](https://github.com/khvmaths/KIX3004_Python/blob/master/Questions/KIX3004_Tutorial08.pdf)
+  - [Question 1](https://github.com/khvmaths/KIX3004_Python/blob/master/Tut2/T8Q1.py)
+  - [Question 2](https://github.com/khvmaths/KIX3004_Python/blob/master/Tut2/T8Q2.py)
+* [Tutorial 9](https://github.com/khvmaths/KIX3004_Python/blob/master/Questions/KIX3004_Tutorial09.pdf)
+  - [Question 1](https://github.com/khvmaths/KIX3004_Python/blob/master/Tut2/T9Q1.py)
+  - [Question 2](https://github.com/khvmaths/KIX3004_Python/blob/master/Tut2/T9Q2.py)
 
 # Test 1 Questions and Answer
 * [Questions](https://github.com/khvmaths/KIX3004_Python/blob/master/Questions/KIX3004-Test1.pdf)
