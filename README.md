@@ -2,6 +2,8 @@
 This is a respitory for KIX3004 Python Programming for Session 2018/2019.
 
 # Tutorial Questions and Answer
+
+[Compiled Tutorial Question and answer](https://github.com/khvmaths/KIX3004_Python/blob/master/python_tut_test.pdf)
 Questions and answers can be found below.
 * [Tutorial 1](https://github.com/khvmaths/KIX3004_Python/blob/master/Questions/KIX3004_Tutorial01.pdf)
   - [Question 1](https://github.com/khvmaths/KIX3004_Python/blob/master/Tut1/T1Q1.py)
