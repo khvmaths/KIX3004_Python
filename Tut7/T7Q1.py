@@ -6,6 +6,7 @@ class BankAccount:
         BankAccount.count += 1
     def __str__(self):
         return '%s has %i in the account' %(self.name,self.bal)
+    @staticmethod
     def displayTotalAccount():
         print('Total number of account created is %i' %(BankAccount.count))
     def setBalance(self,i):
