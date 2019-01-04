@@ -1,8 +1,8 @@
-# KIX3004_Python  [![Generic badge](https://img.shields.io/badge/Updated%20to-Tutorial%209-blue.svg)](https://shields.io/)
+# KIX3004_Python  
 This is a respitory for KIX3004 Python Programming for Session 2018/2019.
 
 # Lecture Notes
-[Lecture 1 - 11] (https://github.com/khvmaths/KIX3004_Python/tree/master/Lecture%20Notes)
+[Lecture 1 - 11](https://github.com/khvmaths/KIX3004_Python/tree/master/Lecture%20Notes)
 
 # Tutorial Questions and Answer
 
