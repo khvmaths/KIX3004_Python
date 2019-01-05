@@ -50,7 +50,8 @@ Questions and answers can be found below.
   - [Answer Q1](https://github.com/khvmaths/KIX3004_Python/blob/master/Test2/KIE160111Q1.py) 
   - [Answer Q2](https://github.com/khvmaths/KIX3004_Python/blob/master/Test2/KIE160111Q2.py) 
 
-# Assignment - Dino Run Game
-* [Assignment 1](https://github.com/khvmaths/DinoRun-PyQt-PyGame)
+# Assignments
+* [Assignment 1 - Theory Questions](https://github.com/khvmaths/KIX3004_Python/blob/master/KIE160111A1.docx)
+* [Assignment 2 - Dino Run Game](https://github.com/khvmaths/DinoRun-PyQt-PyGame)
   
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
